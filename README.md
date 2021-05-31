@@ -43,8 +43,7 @@ When analizing the data by an initial visual representation, there are present s
 ![Scatter plot](https://github.com/AlexisVM/AI-Booking/blob/main/Media/relations.jpg)
 ![Heatmap plot](https://github.com/AlexisVM/AI-Booking/blob/main/Media/heatmap.jpg)
 
-The results are on the document within this repo
-The results demonstrate a solid model that can be used to obtain great results.
+The results are on the pdf document within this repo, the results demonstrate a solid model that can be used to obtain great results.
 
 ## Usage
 
