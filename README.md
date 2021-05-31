@@ -34,14 +34,14 @@ The dataset is composed by 120 rows containing data from hotels in bosnia:
 
 With that information we can see relations between attributes to help obtain a proper price.
 
-![Dataset](../AI-Booking/Media/dataset.jpg)
+![Dataset](https://github.com/AlexisVM/AI-Booking/blob/main/Media/dataset.jpg)
 
 ## Model
 
 When analizing the data by an initial visual representation, there are present some relations between the attributes, same that can help to get a result.
 
-![Scatter plot](../AI-Booking/Media/relations.jpg)
-![Heatmap plot](../AI-Booking/Media/heatmap.jpg)
+![Scatter plot](https://github.com/AlexisVM/AI-Booking/blob/main/Media/relations.jpg)
+![Heatmap plot](https://github.com/AlexisVM/AI-Booking/blob/main/Media/heatmap.jpg)
 
 The results obtained showed the next data:
 
