@@ -43,15 +43,8 @@ When analizing the data by an initial visual representation, there are present s
 ![Scatter plot](https://github.com/AlexisVM/AI-Booking/blob/main/Media/relations.jpg)
 ![Heatmap plot](https://github.com/AlexisVM/AI-Booking/blob/main/Media/heatmap.jpg)
 
-The results obtained showed the next data:
-
-`MAE: 43.03788800890755`
-
-`MSE: 2952.3997433743393`
-
-`RMSE: 54.33598939353492`
-
-This results demonstrate a solid model that can be used to obtain great results.
+The results are on the document within this repo
+The results demonstrate a solid model that can be used to obtain great results.
 
 ## Usage
 
