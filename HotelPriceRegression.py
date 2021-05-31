@@ -40,4 +40,6 @@ squares = float(input("How big is the room? (in square meters) "))
 
 # Create data frame with predictions
 df_pred = pd.DataFrame([(hotel_star_rating, distance, customer_rating, squares)], columns = cols)
-print("\nThe price of the hotel will be of %i " %round(linear.predict(df_pred)[0]))
+price = round(linear.predict(df_pred)[0])
+print("\nThe price of the average night in the hotel will be of %i BAM " %price)
+print("\nor %i MXN" %round(price * 12.4))
