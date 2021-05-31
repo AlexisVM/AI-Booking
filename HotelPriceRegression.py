@@ -28,7 +28,8 @@ predictions = linear.predict(X_test)
 
 print('MAE:', metrics.mean_absolute_error(y_test, predictions)) 
 print('MSE:', metrics.mean_squared_error(y_test, predictions)) 
-print('RMSE:', np.sqrt(metrics.mean_squared_error(y_test, predictions))) 
+print('RMSE:', np.sqrt(metrics.mean_squared_error(y_test, predictions)))
+print('Coeff:', metrics.r2_score(y_test, predictions)) 
 
 #Predicting the price of a new hotel
 cols = ["Hotel_star_rating", "Distance", "Customer_rating", "Squares"]
